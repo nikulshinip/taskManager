@@ -13,7 +13,7 @@
         <maven.compiler.target>1.9</maven.compiler.target>
         <com.h2database.h2.version>1.4.199</com.h2database.h2.version>
         <org.hibernate.hibernate-core.version>5.4.5.Final</org.hibernate.hibernate-core.version>
-        <org.apache.logging.log4j.version>2.12.1</org.apache.logging.log4j.version>
+        <org.apache.logging.log4j.version>2.13.3</org.apache.logging.log4j.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
